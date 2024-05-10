@@ -1,7 +1,8 @@
 Source: python-idna
 Section: python
 Priority: optional
-Maintainer: Debian Python Team <team+python@tracker.debian.org>
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+XSBC-Original-Maintainer: Debian Python Team <team+python@tracker.debian.org>
 Uploaders:
  Tristan Seligmann <mithrandi@debian.org>,
  Thomas Goirand <zigo@debian.org>,

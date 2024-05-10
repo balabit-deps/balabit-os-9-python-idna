@@ -1,3 +1,11 @@
+python-idna (3.3-1ubuntu0.1) jammy-security; urgency=medium
+
+  * SECURITY UPDATE: resource exhaustion
+    - debian/patches/CVE-2024-3651.patch: checks input before processing
+    - CVE-2024-3651
+
+ -- Jorge Sancho Larraz <jorge.sancho.larraz@canonical.com>  Fri, 10 May 2024 11:06:56 +0200
+
 python-idna (3.3-1) unstable; urgency=medium
 
   * New upstream release.
